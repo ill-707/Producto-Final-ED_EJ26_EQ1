@@ -334,7 +334,7 @@ Se aplica mínimos cuadrados sobre todos los puntos de la fase de enfriamiento p
 ## 7. Estructura del Proyecto
 
 ```
-thermal-monitor/
+Thermo/
 ├── index.html          # Interfaz principal
 ├── style.css           # Estilos (tema industrial oscuro)
 ├── script.js           # Lógica completa del simulador
