@@ -339,7 +339,7 @@ thermal-monitor/
 ├── style.css           # Estilos (tema industrial oscuro)
 ├── script.js           # Lógica completa del simulador
 ├── arduino/
-│   └── thermal_monitor.ino   # Firmware Arduino
+│   └── Thermo2.0.ino   # Firmware Arduino
 └── README.md
 ```
 
